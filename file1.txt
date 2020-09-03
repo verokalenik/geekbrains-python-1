@@ -1,0 +1,5 @@
+Ivanov 10000
+Petrov 30000
+Vasin 123000
+Farren 15000
+Tatcher 25000
